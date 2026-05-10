@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.DS_Store
+
+# Local experiment outputs and downloaded assets.
+runs/
+runs_seed*/
+downloads/
+data/
+*.pt
+*.pth
+*.safetensors
+

@@ -1,0 +1,22 @@
+name: tokens
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pytorch
+  - torchvision
+  - pytorch-cuda=12.1
+  - pip:
+      - accelerate
+      - datasets
+      - huggingface-hub==0.30.2
+      - numpy
+      - pandas
+      - pillow
+      - safetensors==0.5.3
+      - tokenizers==0.21.1
+      - tqdm
+      - transformers==4.51.0
