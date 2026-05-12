@@ -1,7 +1,7 @@
 <h1 align="center">The Truth Lies Somewhere in the Middle<br>(of the Generated Tokens)</h1>
 
 <h3 align="center">
-<a href="">Paper</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://arxiv.org/abs/2605.09969">Paper</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.sophielwang.com/tokens">Project Page</a>
 </h3>
 
